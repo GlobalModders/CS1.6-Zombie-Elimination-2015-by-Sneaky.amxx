@@ -1,0 +1,47 @@
+﻿<html>
+	<head>
+		<style type="text/css">
+			pre
+			{
+				font-family:Verdana,Tahoma;
+				color:#FFFFFF;
+			}
+
+			body
+			{
+				background:#000000;
+				margin-left:8px;
+				margin-top:0px;
+			}
+		</style>
+	</head>
+
+	<body scroll="no">
+		<pre>
+			<center>
+			<b>Zombie Elimination (#VERSION#) by #AUTHOR#</b>
+			
+			<font size="2">Press M(ChooseTeam) to pick your skills
+			<b><u>角色信息:</u></b>
+			按M键选一个阵营 
+			双方阵营有四个不同的角色,每个角色的技能都不同. 
+			技能的等级最高是10级. 
+			每一级你都能得到一个技能点.
+			
+			<b><u>游戏玩法:</u></b> 
+			
+			双方阵营 
+			
+			<u>僵尸</u> - <b>僵尸阵营</b> 
+			
+			<u>人类</u> - <b>人类阵营</b> 
+			
+			双方阵营的目标就是摧毁敌方的阵营 
+			消灭对方即可赢得比赛. 
+			一旦你摧毁了敌方的阵营  
+			杀死剩下的敌人即可赢得比赛. 
+			每一盘都会进行团队交换. </font>
+			</center>
+		</pre>
+	</body>
+</html>

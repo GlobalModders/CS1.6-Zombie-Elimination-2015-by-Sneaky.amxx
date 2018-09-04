@@ -1,0 +1,62 @@
+﻿<html>
+	<head>
+		<style type="text/css">
+			pre
+			{
+				font-family:Verdana,Tahoma;
+				color:#FFFFFF;
+			}
+
+			body
+			{
+				background:#000000;
+				margin-left:8px;
+				margin-top:0px;
+			}
+		</style>
+	</head>
+
+	<body scroll="no">
+		<pre>
+			<center>
+			<u><b>僵尸类:</b></u>
+
+			<font size="2"><b><u>普通僵尸</u></b> 
+
+			<u>爬墙<u> - 爬墙而已. 
+			<u>围攻</u> - 围攻持续时间 (按两下W键) 
+			<u>能力恢复</u> - 技能恢复
+			<u>大招:<u> 加血 - 轻盈 - 速度更快 
+
+			<u><b>隐身僵尸</b></U> 
+
+			<u>突袭</u> - 急速扑进 
+			<u>隐形</u> - 隐身一段时间 (按两下W键)
+			<u>能力恢复<u/> - 技能恢复 
+			<u>Ultimate:</u> 更加轻盈,增加移动速度. 
+
+			<u><b>重甲僵尸</b></u> 
+			
+			<u>Quake</u> - 可以让敌人暂时无法动弹 
+			<u>Hardening</u> - 强化技能持续时间 (按两下W键并按住) 
+			<u>能力恢复</u> - 技能恢复 
+			<u>大招:未知</u> 11级,按G键使用 
+
+			<u><b>夜行者</b></u> 
+
+			<u>空中冲刺</u> - 不解释. 
+			<u>隐身</u> - 不解释 
+			<u>能力恢复</u> - 不解释 
+			<u>大招:亡灵盟友</u> - 召唤4个幽灵.
+
+			<u><b>巫毒僵尸</b></u> 
+
+			<u>治疗</u> - 治疗周围僵尸
+			<u>治疗率</u> - 治疗幅度 
+			<u>自愈</u> - 增加自己的生命 
+			<u>大招:治疗术</u> 治愈附近队友60秒. (按G键) 
+			</font>
+			</center>
+		</pre>
+	</body>
+</html>

@@ -1,0 +1,44 @@
+﻿<html>
+	<head>
+		<style type="text/css">
+			pre
+			{
+				font-family:Verdana,Tahoma;
+				color:#FFFFFF;
+			}
+
+			body
+			{
+				background:#000000;
+				margin-left:8px;
+				margin-top:0px;
+			}
+		</style>
+	</head>
+
+	<body scroll="no">
+		<pre>
+			<center>
+			<u><b>VIP信息:</b></u>
+
+			<font size="2"><b><u>VIP僵尸类型</u></b>
+			<u>女妖</u> 
+			<b>恶魔蝙蝠</b> <u>按G键</u>
+			<b>蝙蝠的生命</b> <u>增加蝙蝠的生命</u>
+			<b>突袭</b> <u> 短时间增加你的跳跃能力. (按鼠标右键)</u>
+			
+			<b>大招:龙爪钩</b> -给你一个龙爪钩.
+
+			<b><u>VIP人类类型</b></u>
+
+			<u><b>孙悟空</b></u>
+			<b>分身</b> - 制造假象 (按G键) 
+			<b>如意金箍棒</b> - 增加金箍棒的攻击距离 
+			<b>猴子条</b> - 增加你的跳跃高度 (降低重力) 
+			
+			<b>大招:孙悟空的领域(被动技能)</b> - 增加你的移动速度和近身武器伤害.
+			</font>
+			</center>
+		</pre>
+	</body>
+</html>
